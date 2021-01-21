@@ -28,7 +28,10 @@ Stage 2: This is when the game starts and the players have to guess the position
 
 ### Screen Components
 
-Player 1’s board on top and Player 2’s board below that
-History of who won in the past on the right side
-Status bar at the very bottom indicating count of current hidden boxes for each player and also mentions whose turn it is
-The player with current turn will have “(current turn)” specified
+-Player 1’s board on top and Player 2’s board below that
+
+-History of who won in the past on the right side
+
+-Status bar at the very bottom indicating count of current hidden boxes for each player and also mentions whose turn it is
+
+-The player with current turn will have “(current turn)” specified
