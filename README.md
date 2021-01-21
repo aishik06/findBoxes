@@ -26,7 +26,8 @@ Stage 2: This is when the game starts and the players have to guess the position
 
 -The name of the winning player is added to history and then stored in a file and the next time the game is played, it will show the names of the players in the order they had won.
 
-Screen Components
+### Screen Components
+
 Player 1’s board on top and Player 2’s board below that
 History of who won in the past on the right side
 Status bar at the very bottom indicating count of current hidden boxes for each player and also mentions whose turn it is
