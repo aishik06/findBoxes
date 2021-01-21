@@ -35,3 +35,6 @@ Stage 2: This is when the game starts and the players have to guess the position
 -Status bar at the very bottom indicating count of current hidden boxes for each player and also mentions whose turn it is
 
 -The player with current turn will have “(current turn)” specified
+
+
+#### --Start the game by running Main.java--
